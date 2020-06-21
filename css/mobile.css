@@ -1,0 +1,57 @@
+@media (max-width: 600px) {
+  .main_section {
+    height: auto;
+    padding: 2%;
+  }
+  .products {
+    display: inherit;
+  }
+  .content {
+    margin: -10px 20px 50px 20px;
+  }
+  .button_content {
+    bottom: auto;
+  }
+  .benefits {
+    display: inherit;
+    height: auto;
+    margin: auto;
+  }
+  .benefits_item {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+  }
+  h3 {
+    margin: 10px;
+  }
+  .opinions_title {
+    margin-top: 100px;
+  }
+  .opinions {
+    display: inherit;
+    height: auto;
+  }
+  .opinions_content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .paragraph_sale {
+    margin: auto;
+  }
+
+  .container_solution {
+    margin-bottom: 70px;
+  }
+
+  .questions {
+    width: auto;
+    padding: 5%;
+  }
+}
